@@ -1,0 +1,440 @@
+[
+	{
+		"item_id"      : "T5_MOUNT_COUGAR_KEEPER@1",
+		"name"         : "Swiftclaw",
+		"dependencies" : [
+			{
+				"item_id"  : "T5_FARM_COUGAR_BABY",
+				"quantity" : 1,
+				"return"   : 0.1,
+				"focus"    : 0.3
+			},
+			{
+				"item_id"  : "T5_LEATHER",
+				"quantity" : 20,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{
+				"item_id"  : "T3_MEAT",
+				"quantity" : 90,
+				"return"   : 0.152,
+				"focus"    : 0.435
+			},
+			{ 
+				"item_id"  : "T3_FARM_CHICKEN_BABY",
+				"quantity" : 4.5,
+				"return"   : 0.6,
+				"focus"    : 0.8
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 45,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T5_MOUNT_GREYWOLF_FW_CAERLEON",
+		"name"         : "Saddled Greywolf",
+		"dependencies" : [
+			{
+				"item_id"  : "T5_FARM_GREYWOLF_FW_CAERLEON_BABY",
+				"quantity" : 1,
+				"return"   : 0.1,
+				"focus"    : 0.3
+			},
+			{
+				"item_id"  : "T5_LEATHER",
+				"quantity" : 20,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{
+				"item_id"  : "T1_FACTION_CAERLEON_TOKEN_1",
+				"quantity" : 5,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{
+				"item_id"  : "T3_MEAT",
+				"quantity" : 90,
+				"return"   : 0.152,
+				"focus"    : 0.435
+			},
+			{ 
+				"item_id"  : "T3_FARM_CHICKEN_BABY",
+				"quantity" : 4.5,
+				"return"   : 0.6,
+				"focus"    : 0.8
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 45,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T5_MOUNT_DIREBOAR_FW_LYMHURST",
+		"name"         : "Saddled Wild Boar",
+		"dependencies" : [
+			{
+				"item_id"  : "T5_FARM_DIREBOAR_FW_LYMHURST_BABY",
+				"quantity" : 1,
+				"return"   : 0.1,
+				"focus"    : 0.3
+			},
+			{
+				"item_id"  : "T5_LEATHER",
+				"quantity" : 20,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{
+				"item_id"  : "T1_FACTION_FOREST_TOKEN_1",
+				"quantity" : 5,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{
+				"item_id"  : "T3_MEAT",
+				"quantity" : 90,
+				"return"   : 0.152,
+				"focus"    : 0.435
+			},
+			{ 
+				"item_id"  : "T3_FARM_CHICKEN_BABY",
+				"quantity" : 4.5,
+				"return"   : 0.6,
+				"focus"    : 0.8
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 45,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T5_MOUNT_MOABIRD_FW_BRIDGEWATCH",
+		"name"         : "Saddled Moabird",
+		"dependencies" : [
+			{
+				"item_id"  : "T5_FARM_MOABIRD_FW_BRIDGEWATCH_BABY",
+				"quantity" : 1,
+				"return"   : 0.1,
+				"focus"    : 0.3
+			},
+			{
+				"item_id"  : "T5_LEATHER",
+				"quantity" : 20,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{
+				"item_id"  : "T1_FACTION_STEPPE_TOKEN_1",
+				"quantity" : 5,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{
+				"item_id"  : "T3_MEAT",
+				"quantity" : 90,
+				"return"   : 0.152,
+				"focus"    : 0.435
+			},
+			{ 
+				"item_id"  : "T3_FARM_CHICKEN_BABY",
+				"quantity" : 4.5,
+				"return"   : 0.6,
+				"focus"    : 0.8
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 45,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T6_MOUNT_GIANTSTAG_MOOSE",
+		"name"         : "Moose",
+		"dependencies" : [
+			{
+				"item_id"  : "T6_FARM_GIANTSTAG_MOOSE_BABY",
+				"quantity" : 1,
+				"return"   : 0.06,
+				"focus"    : 0.18
+			},
+			{
+				"item_id"  : "T6_LEATHER",
+				"quantity" : 20,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 270,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T4_MOUNT_OX",
+		"name"         : "Adepts's Transport Ox",
+		"dependencies" : [
+			{
+				"item_id"  : "T4_FARM_OX_BABY",
+				"quantity" : 1,
+				"return"   : 0.79,
+				"focus"    : 1.05
+			},
+			{
+				"item_id"  : "T4_PLANKS",
+				"quantity" : 30,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 30,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T4_MOUNT_GIANTSTAG",
+		"name"         : "Adept's Giant Stag",
+		"dependencies" : [
+			{
+				"item_id"  : "T4_FARM_GIANTSTAG_BABY",
+				"quantity" : 1,
+				"return"   : 0.18,
+				"focus"    : 0.35
+			},
+			{
+				"item_id"  : "T4_LEATHER",
+				"quantity" : 20,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 30,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]		
+	},
+	{
+		"item_id"      : "T5_MOUNT_HORSE",
+		"name"         : "Expert's Riding Horse",
+		"dependencies" : [
+			{
+				"item_id"  : "T5_FARM_HORSE_BABY",
+				"quantity" : 1,
+				"return"   : 0.79,
+				"focus"    : 1.05
+			},
+			{
+				"item_id"  : "T5_LEATHER",
+				"quantity" : 20,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 90,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T5_MOUNT_ARMORED_HORSE",
+		"name"         : "Expert's Armored Horse",
+		"dependencies" : [
+			{
+				"item_id"  : "T5_FARM_HORSE_BABY",
+				"quantity" : 1,
+				"return"   : 0.79,
+				"focus"    : 1.05
+			},
+			{
+				"item_id"  : "T5_CLOTH",
+				"quantity" : 10,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T5_METALBAR",
+				"quantity" : 20,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 90,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T5_MOUNT_OX",
+		"name"         : "Expert's Transport Ox",
+		"dependencies" : [
+			{
+				"item_id"  : "T5_FARM_OX_BABY",
+				"quantity" : 1,
+				"return"   : 0.79,
+				"focus"    : 1.05
+			},
+			{
+				"item_id"  : "T5_PLANKS",
+				"quantity" : 30,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 90,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T6_MOUNT_HORSE",
+		"name"         : "Master's Riding Horse",
+		"dependencies" : [
+			{
+				"item_id"  : "T6_FARM_HORSE_BABY",
+				"quantity" : 1,
+				"return"   : 0.81,
+				"focus"    : 1.05
+			},
+			{
+				"item_id"  : "T6_LEATHER",
+				"quantity" : 20,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 270,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T6_MOUNT_ARMORED_HORSE",
+		"name"         : "Master's Armored Horse",
+		"dependencies" : [
+			{
+				"item_id"  : "T6_FARM_HORSE_BABY",
+				"quantity" : 1,
+				"return"   : 0.81,
+				"focus"    : 1.05
+			},
+			{
+				"item_id"  : "T6_CLOTH",
+				"quantity" : 10,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T6_METALBAR",
+				"quantity" : 20,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 270,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T6_MOUNT_OX",
+		"name"         : "Master's Transport Ox",
+		"dependencies" : [
+			{
+				"item_id"  : "T6_FARM_OX_BABY",
+				"quantity" : 1,
+				"return"   : 0.81,
+				"focus"    : 1.05
+			},
+			{
+				"item_id"  : "T6_PLANKS",
+				"quantity" : 30,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 270,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T7_MOUNT_OX",
+		"name"         : "Grandmaster's Transport Ox",
+		"dependencies" : [
+			{
+				"item_id"  : "T7_FARM_OX_BABY",
+				"quantity" : 1,
+				"return"   : 0.84,
+				"focus"    : 1.04
+			},
+			{
+				"item_id"  : "T7_PLANKS",
+				"quantity" : 30,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 810,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	},
+	{
+		"item_id"      : "T8_MOUNT_OX",
+		"name"         : "Elder's Transport Ox",
+		"dependencies" : [
+			{
+				"item_id"  : "T8_FARM_OX_BABY",
+				"quantity" : 1,
+				"return"   : 0.87,
+				"focus"    : 1.03
+			},
+			{
+				"item_id"  : "T8_PLANKS",
+				"quantity" : 30,
+				"return"   : 0,
+				"focus"    : 0
+			},
+			{ 
+				"item_id"  : "T1_CARROT",
+				"quantity" : 2400,
+				"return"   : 0,
+				"focus"    : 0
+			}
+		]
+	}
+]
